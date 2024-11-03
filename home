@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Management System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Travel Management System</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Destinations</a></li>
+                    <li><a href="#">Bookings</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <main>
+        <section class="hero">
+            <h2>Discover Your Next Adventure</h2>
+            <p>Find and book your next trip with ease.</p>
+            <a href="#" class="btn">Get Started</a>
+        </section>
+        
+        <section class="features">
+            <div class="container">
+                <div class="feature">
+                    <h3>Popular Destinations</h3>
+                    <p>Explore the most visited places around the world.</p>
+                </div>
+                <div class="feature">
+                    <h3>Easy Booking</h3>
+                    <p>Book your travel plans with just a few clicks.</p>
+                </div>
+                <div class="feature">
+                    <h3>24/7 Support</h3>
+                    <p>We're here to help you anytime, anywhere.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Travel Management System. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
